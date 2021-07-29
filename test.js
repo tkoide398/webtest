@@ -4,3 +4,4 @@ window.navigator
 window.document
 document
 document.head
+console.log(window.navigator.userAgent);
